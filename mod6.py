@@ -57,3 +57,4 @@ if args.task == 'scan':
         do_ping_sweep(args.ip, host_num, args.os)
 elif args.task == 'send_http':
     sent_http_request(args.target, args.method, args.headers, args.payload)
+#adsfewfsd
